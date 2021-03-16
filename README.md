@@ -1,1 +1,2 @@
 # HandWrittenDigitAnalysis
+This project uses a multi layered neural network with 50% dropout on the first layer, this has helped me achieve better accuracy. The job of this project is to classify a dataset of handwritten digits into the correct labels which are the numbers. There are 10 labels so the output layer has 10 nodes with the 'softmax' activation function to select the highest probable digit among the 10.
